@@ -11,6 +11,7 @@
 	vertical-align: middle;
 	visibility: hidden;
 	z-index: 60;
+	margin: 10px 0;
 
 	&.active {
 		animation: wcfPopover 0.3s;
